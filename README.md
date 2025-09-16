@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://path-to-your-logo-or-banner-image.png" alt="PersonaCraft AI Banner" width="600"/>
+  <img src="https://share.google/images/azayPz6FlUSlL5qyR" alt="PersonaCraft AI Banner" width="600"/>
   <h1>PersonaCraft AI</h1>
   <p>
     A full-stack AI chatbot platform that creates dynamic, conversational personas by analyzing user-uploaded chat histories.
